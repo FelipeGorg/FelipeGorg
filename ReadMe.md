@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de programação<br>
+Estudante de programação, apaixonado por tecnologia😁<br>
 
 
 # 💻 Tech Stack:
